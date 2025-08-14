@@ -1,7 +1,6 @@
 ![Athallah Zahwan](img/Banner.png)
 
 # How's goin partner? The name is Zahwan
-___
 I wrangle both code and design, from the shiny front-end fences to the dusty back-end trails. With a steady hand and a designer’s eye, I build digital experiences that look sharp and run smoother than a billabong breeze. Part outback grit, part frontier craft — I keep things tidy, functional, and ready for the next ride.
 
 
